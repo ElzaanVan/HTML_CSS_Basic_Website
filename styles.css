@@ -55,7 +55,7 @@ h3 {
   height: 20%;
   width: 20%;
   position: absolute;
-  right: 8%;
+  right: 0%;
   top: 5%;
 }
 
@@ -63,8 +63,8 @@ h3 {
   height: 20%;
   width: 20%;
   position: absolute;
-  left: 5%;
-  bottom: 35%;
+  left: 0%;
+  bottom: 60%;
 }
 
 .middle-container {
